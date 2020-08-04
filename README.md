@@ -1,5 +1,5 @@
 # dirk
 
-Evaluate &amp; execute a set of dependencies, aka a DAG.
+Execute a set of interdependent tasks, ala `make`.
 
-A "dirk" is a kind of dagger: https://en.wikipedia.org/wiki/Dirk
+A _dirk_ is a dagger (https://en.wikipedia.org/wiki/Dirk), and a dagger is a thing that evaluates a DAG.
